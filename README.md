@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://www.linkedin.com/in/huyen-nguyen-6b57972a7/" target="_blank">My LinkedIn Profile</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
