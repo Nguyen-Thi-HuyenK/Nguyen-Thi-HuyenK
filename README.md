@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, my name is Huyen.</h1>
+
 <h3 align="center">I'm a third-year IT student, specializing in software, web, and mobile development, and I'm passionate about building efficient, user-friendly applications.</h3>
 
 - 🔭 I’m currently working on [my own projects for my portfolio, focusing on both front-end and back-end development.](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects)
