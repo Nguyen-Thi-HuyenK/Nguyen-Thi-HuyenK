@@ -36,6 +36,7 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://vuejs.org/">
     <img src="https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="Vue.js" style="max-width: 100%;">
 </a>
+    
      <!-- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>  -->
     <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/685fbfb7ff462bdd41934c8ba1c3bcd0ae750c9061c7f3d1e3fe21c3f77c72f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675654a532d3446433038443f6c6f676f3d767565646f746a73266c6f676f436f6c6f723d344643303844267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/685fbfb7ff462bdd41934c8ba1c3bcd0ae750c9061c7f3d1e3fe21c3f77c72f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675654a532d3446433038443f6c6f676f3d767565646f746a73266c6f676f436f6c6f723d344643303844267374796c653d666f722d7468652d6261646765" alt="VueJS" data-canonical-src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge" style="max-width: 100%;"></a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
