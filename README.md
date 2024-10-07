@@ -2,7 +2,6 @@
 
 <h3 align="center">I'm a third-year IT student, specializing in software, web, and mobile development, and I'm passionate about building efficient, user-friendly applications.</h3>
 
-
 - 🔭 I’m currently working on [my own projects for my portfolio, focusing on both front-end and back-end development.](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects), and [some frontend projects using VueJs](https://github.com/Nguyen-Thi-HuyenK/VueJs-Projects)
 
 - 🌱 I’m currently learning **more advanced frontend, database, and backend technologies to enhance my full-stack development skills.**
