@@ -76,6 +76,7 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1c7ad78be85ff4df845fc605cea6d36731a462b352680ab317db1ec7523956d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d3046313732413f267374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e64637373"><img src="https://camo.githubusercontent.com/1c7ad78be85ff4df845fc605cea6d36731a462b352680ab317db1ec7523956d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d3046313732413f267374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e64637373" alt="TailwindCss" data-canonical-src="https://img.shields.io/badge/tailwindcss-0F172A?&amp;style=for-the-badge&amp;logo=tailwindcss" style="max-width: 100%;"></a>
     
    <!--  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+   
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
