@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **optimization techniques and scaling services for large-scale applications.**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects)** and **[some frontend projects using VueJs](https://github.com/Nguyen-Thi-HuyenK/VueJs-Projects)**
+- 👨‍💻 All of my projects are available at **[https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects)** and **[fullstack course from University of Helsinki](https://github.com/Nguyen-Thi-HuyenK/FullStack-University-of-Helsinki)**
 
 - 💬 Ask me about **full-stack development, front-end frameworks (React, React Native), JavaScript, TypeScript, back-end technologies (Node.js, Express), databases (MySQL, PostgreSQL), and data analysis with Python.**
 
