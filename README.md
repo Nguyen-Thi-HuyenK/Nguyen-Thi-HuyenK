@@ -66,6 +66,58 @@
 </p>
 
 ---
+### **🔧 Data Engineering**
+<p align="left"> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="max-width: 100%;"/> 
+  </a> 
+   <!--  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/apache airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" style="max-width: 100%;"/> 
+  </a> -->
+   <!--  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="max-width: 100%;"/> 
+  </a> -->
+   <!--  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/apache kafka-%2302313D.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" style="max-width: 100%;"/> 
+  </a> -->
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/apache spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" style="max-width: 100%;"/> 
+  </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width: 100%;"/> 
+  </a> 
+   <!--  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="max-width: 100%;"/> 
+  </a> -->
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" style="max-width: 100%;"/> 
+  </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" style="max-width: 100%;"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/sql server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" style="max-width: 100%;"/> 
+  </a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" style="max-width: 100%;"/> 
+  </a> 
+  <a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/azure data factory-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Factory" style="max-width: 100%;"/> 
+  </a> 
+  <a href="https://powerquery.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/power query-%23F2C811.svg?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power Query" style="max-width: 100%;"/> 
+  </a> 
+   <!--  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="max-width: 100%;"/> 
+  </a> -->
+   <!--  <a href="https://terraform.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" style="max-width: 100%;"/> 
+  </a> -->
+</p>
+
+
+### **📊 Data Analysis**
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="max-width: 100%;"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="max-width: 100%;"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="max-width: 100%;"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="max-width: 100%;"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/seaborn-%233C4E73.svg?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" style="max-width: 100%;"/> </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" style="max-width: 100%;"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" style="max-width: 100%;"/> </a> </p>
 
 ### **🛠️ Other Tools:**
 <p align="left"> 
