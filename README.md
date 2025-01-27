@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **more advanced frontend, database, and backend technologies to enhance my full-stack development skills.** Additionally, I have been diving deep into **data technologies and engineering**, such as Cloud platform (Microsoft Azure) and Data Integration (ETL, Power BI, Power Query, Python (pandas, NumPy)).
 
-- 👯 I’m looking to collaborate on **full-stack projects, data engineering, and data analysis tasks.**
+- 👯 I’m looking to collaborate on **full-stack projects, data engineering, data analysis, and testing tasks.**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects)** and **[fullstack course from University of Helsinki](https://github.com/Nguyen-Thi-HuyenK/FullStack-University-of-Helsinki)**
 
