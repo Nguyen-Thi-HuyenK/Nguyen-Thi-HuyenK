@@ -118,6 +118,18 @@
 ### **📊 Data Analysis**
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="max-width: 100%;"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="max-width: 100%;"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="max-width: 100%;"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="max-width: 100%;"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/seaborn-%233C4E73.svg?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" style="max-width: 100%;"/> </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" style="max-width: 100%;"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" style="max-width: 100%;"/> </a> </p>
 
+
+
+---
+🧪 Testing
+<p align="left"> <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Robot_Framework-%23636B6F.svg?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" style="max-width: 100%;"/> </a> <a href="https://docs.python.org/3/library/unittest.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/UnitTest-%234B8E28.svg?style=for-the-badge&logo=python&logoColor=white" alt="UnitTest" style="max-width: 100%;"/> </a> 
+<!-- <a href="https://pytest.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTest-%233D5B4F.svg?style=for-the-badge&logo=python&logoColor=white" alt="PyTest" style="max-width: 100%;"/> </a> -->
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Selenium-%23D74B16.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" style="max-width: 100%;"/> </a> 
+<!-- <a href="https://requests.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Requests-%235D5D5D.svg?style=for-the-badge&logo=requests&logoColor=white" alt="Requests" style="max-width: 100%;"/> </a> -->
+</p>
+
+
+
 ---
 ### **🛠️ Other Tools:**
 <p align="left"> 
@@ -137,7 +149,7 @@
 
 
  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyen-thi-huyenk&show_icons=true&locale=en&layout=compact" alt="nguyen-thi-huyenk" /></p>   -->
- <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-thi-huyenk&layout=compact&theme=radical) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-thi-huyenk&layout=compact&theme=radical) 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyen-thi-huyenk&show_icons=true&locale=en" alt="nguyen-thi-huyenk" /></p>
