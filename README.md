@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Huyen.</h1>
+<h1 align="center">Hi 👋, my name is Huyen (Lilia).</h1>
 
 <h3 align="center">I'm a third-year IT student, specializing in software, web, and mobile development, and I'm passionate about building efficient, user-friendly applications. Currently, I have been diving in the world of data engineering and data analysis. </h3>
 
