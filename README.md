@@ -122,11 +122,24 @@
 
 ---
 ### **🧪 Testing**
-<p align="left"> <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Robot_Framework-%23636B6F.svg?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" style="max-width: 100%;"/> </a> <a href="https://docs.python.org/3/library/unittest.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/UnitTest-%234B8E28.svg?style=for-the-badge&logo=python&logoColor=white" alt="UnitTest" style="max-width: 100%;"/> </a> 
-<!-- <a href="https://pytest.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTest-%233D5B4F.svg?style=for-the-badge&logo=python&logoColor=white" alt="PyTest" style="max-width: 100%;"/> </a> -->
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Selenium-%23D74B16.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" style="max-width: 100%;"/> </a> 
-<!-- <a href="https://requests.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Requests-%235D5D5D.svg?style=for-the-badge&logo=requests&logoColor=white" alt="Requests" style="max-width: 100%;"/> </a> -->
+<p align="left">
+  <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Robot_Framework-%23636B6F.svg?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" style="max-width: 100%;" />
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="max-width: 100%;" />
+  </a>
+  <a href="https://docs.python.org/3/library/unittest.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/UnitTest-%234B8E28.svg?style=for-the-badge&logo=python&logoColor=white" alt="UnitTest" style="max-width: 100%;" />
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Selenium-%23D74B16.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" style="max-width: 100%;" />
+  </a>
+  <a href="https://airtest.netease.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Airtest-%23009688.svg?style=for-the-badge&logo=airplayaudio&logoColor=white" alt="Airtest" style="max-width: 100%;" />
+  </a>
 </p>
+
 
 
 
