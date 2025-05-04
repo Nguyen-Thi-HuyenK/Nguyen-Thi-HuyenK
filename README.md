@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, my name is Huyen (Lilia).</h1>
 
-<h3 align="center">I'm a third-year IT student, specializing in software, web, and mobile development, and I'm passionate about building efficient, user-friendly applications. Currently, I have been diving in the world of software testing, engineering and data analysis. </h3>
+<h3 align="center">I'm a third-year ICT student specializing in software, web, and mobile development, with a growing passion for software testing and quality assurance. I enjoy building efficient, user-friendly applications and have recently been exploring the world of software testing, test engineering, and data analysis to ensure robust and reliable solutions.</h3>
 
-- 🔭 I’m currently working on [my own projects for my portfolio, focusing on both front-end and back-end development.](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects), and [fullstack course from University of Helsinki](https://github.com/Nguyen-Thi-HuyenK/FullStack-University-of-Helsinki)
+- 🔭 I’m currently working on [my own projects for my portfolio, focusing on Testing, CI&QA, front-end and back-end development.](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects)
 
-- 🌱 I’m currently learning **more advanced frontend, database, and backend technologies to enhance my full-stack development skills.** Additionally, I have been diving deep into **data technologies and engineering**, such as Cloud platform (Microsoft Azure) and Data Integration (ETL, Power BI, Power Query, Python (pandas, NumPy)).
+<!-- - 🌱 I’m currently learning **more advanced frontend, database, and backend technologies to enhance my full-stack development skills.** Additionally, I have been diving deep into **data technologies and engineering**, such as Cloud platform (Microsoft Azure) and Data Integration (ETL, Power BI, Power Query, Python (pandas, NumPy)). -->
 
 - 👯 I’m looking to collaborate on **full-stack projects, data engineering, data analysis, and testing tasks.**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects)** and **[fullstack course from University of Helsinki](https://github.com/Nguyen-Thi-HuyenK/FullStack-University-of-Helsinki)**
+- 👨‍💻 All of my projects are available at **[https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects)** 
 
 - 💬 Ask me about **full-stack development, front-end frameworks (React, React Native), JavaScript, TypeScript, back-end technologies (Node.js, Express), databases (MySQL, PostgreSQL), data management, and data analysis with Python.**
 
