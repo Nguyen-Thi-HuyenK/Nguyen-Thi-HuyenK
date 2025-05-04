@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects)** 
 
-- 💬 Ask me about **full-stack development, front-end frameworks (React, React Native), JavaScript, TypeScript, back-end technologies (Node.js, Express), databases (MySQL, PostgreSQL), data management, and data analysis with Python.**
+<!-- - 💬 Ask me about **full-stack development, front-end frameworks (React, React Native), JavaScript, TypeScript, back-end technologies (Node.js, Express), databases (MySQL, PostgreSQL), data management, and data analysis with Python.** -->
 
 - 📫 How to reach me **c2ng.huyen@gmail.com**
 
