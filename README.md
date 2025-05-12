@@ -4,7 +4,15 @@
 <h3 align="center">I'm a third-year ICT student specializing in software, web, and mobile development, with a growing passion for software testing, quality assurance, and health technology.
 
 Before transitioning to tech, I earned a master’s degree in public health and a physician-level degree in preventive medicine, giving me a solid foundation in human health, research, and ethics. </h3>
-- 🔍 I enjoy building efficient, user-friendly applications and have recently been exploring software testing, test engineering, and data analysis to help ensure robust, reliable, and high-quality solutions.
+<!-- - 🔍 I enjoy building efficient, user-friendly applications and have recently been exploring software testing, test engineering, and data analysis to help ensure robust, reliable, and high-quality solutions. -->
+💡 Current Interests:
+- Health tech & wearable technologies
+
+- Software testing & automation (Selenium, Robot Framework, Python)
+
+- Human-centered research & digital health innovation
+
+- Agile development & interprofessional collaboration
 
 - 🔭 I’m currently working on [my own projects for my portfolio, focusing on Testing, CI&QA, front-end and back-end development.](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects)
 
