@@ -151,6 +151,9 @@ Before transitioning to tech, I earned a master’s degree in public health and 
   <a href="https://airtest.netease.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Airtest-%23009688.svg?style=for-the-badge&logo=airplayaudio&logoColor=white" alt="Airtest" style="max-width: 100%;" />
   </a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" style="max-width: 100%;" />
+  </a>
 </p>
 
 
