@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Huyen (Lilia).</h1>
 
 
-<h3 align="center">I'm a third-year ICT student specializing in software, web, and mobile development, with a growing passion for software testing, quality assurance, and health technology. </h3>
+<h3 align="center">I'm a third-year ICT student specializing in software, web, and mobile development, with a growing passion for software testing, quality assurance, CI/CD. </h3>
 
 Before transitioning to tech, I earned a master’s degree in public health and a physician-level degree in preventive medicine, giving me a solid foundation in human health, research, and ethics. 
 
