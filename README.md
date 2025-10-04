@@ -7,11 +7,11 @@ Before transitioning to tech, I earned a master’s degree in public health and 
 
 <!-- - 🔍 I enjoy building efficient, user-friendly applications and have recently been exploring software testing, test engineering, and data analysis to help ensure robust, reliable, and high-quality solutions. -->
 **💡 Current Interests:**
-- Health tech & wearable technologies
+<!-- - Health tech & wearable technologies -->
 
-- Software testing & automation (Selenium, Robot Framework, Python)
+- Software testing & automation (Selenium, Robot Framework, Playwright, Python)
 
-- Human-centered research & digital health innovation
+<!-- - Human-centered research & digital health innovation -->
 
 - Agile development & interprofessional collaboration
 
